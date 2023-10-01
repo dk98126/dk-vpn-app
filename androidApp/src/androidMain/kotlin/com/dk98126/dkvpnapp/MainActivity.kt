@@ -1,4 +1,4 @@
-package com.myapplication
+package com.dk98126.dkvpnapp
 
 import MainView
 import android.os.Bundle

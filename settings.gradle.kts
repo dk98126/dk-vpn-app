@@ -1,4 +1,4 @@
-rootProject.name = "MyApplication"
+rootProject.name = "DkVpnApp"
 
 include(":androidApp")
 include(":shared")
